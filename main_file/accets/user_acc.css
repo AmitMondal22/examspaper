@@ -1,0 +1,61 @@
+.svgi{
+    width: 80%;
+ }
+ .d-btn{
+     color: #ffff;
+     border-radius: 50px;
+     background-color: #AF2AD6; /* For browsers that do not support gradients */
+   background-image: linear-gradient(to right, #AF2AD6 ,#691FDA);
+   margin-top: auto;
+ }
+ .input-field{ 
+     outline: none;
+     border:none;
+     width: 60%; 
+     margin-right: 15px;
+     
+     }
+     .input-con{
+         margin-bottom:20px; 
+         /* border: 1px solid #5F66FC;  */
+         border-radius: 50px;
+           width: 100%; 
+         padding: 05px 05px; 
+         box-shadow: #A17CFE 0px 2px 8px;
+     }
+     .fas{
+         color: #7323FF;
+         margin-right: 5px;
+         margin-left: 5px;
+     }
+     .shadowc{
+         box-shadow: 0 0 40px #7423ff77;
+         border-radius: 25px;
+     }
+     .b-col{
+         background-color: #EDECFF;
+     }
+
+     .radio-acc{
+        margin-left: 5px;
+        margin-top:8px;
+    }
+    .pas-para{
+        font-size: 10px;
+        text-align: center;
+    }
+    .fro-cat{
+        margin-top: 40px;
+        margin-bottom: 60px;
+    }
+    .for-pas-form{
+        margin-top: 40px;
+    }
+    .otp-para{
+        font-size: 18px;
+        text-align: center;
+    }
+    .pas-para{
+        font-size: 10px;
+        text-align: center;
+    }

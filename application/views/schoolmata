@@ -1,0 +1,21 @@
+<!-- <?php// foreach ($str as $s_data) { 
+    // foreach ($head as $list) { 
+     // echo $list->institute_name;
+      //echo " ";
+     // echo	$s_data->stream_name;
+     // echo ", ";
+  // }}?> -->
+
+
+
+  <?php foreach ($str as $s_data) {  
+    echo	$s_data->stream_name;
+    echo ", ";
+   }?>
+   <?php foreach ($str as $s_data) { 
+     foreach ($head as $list) { 
+      echo $list->institute_name;
+      echo " ";
+      echo	$s_data->stream_name;
+      echo " question paper, ";
+   }}?>

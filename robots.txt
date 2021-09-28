@@ -1,0 +1,82 @@
+User-agent: Googlebot
+Disallow: /ajax/
+Disallow: /all_file/quastion_paper/*.pdf
+Disallow: /all_file/quastion_paper
+Disallow: /main_file
+Disallow: /user_pictur
+
+Disallow: /all-quastions
+Disallow: /admin-upload-quastion
+Disallow: /insert-year
+Disallow: /insert-stream
+Disallow: /all-institute
+Disallow: /institute-type
+Disallow: /all-contact
+Disallow: /user
+Disallow: /profile
+Disallow: /aprove-quastion
+Disallow: /not-aprove-quastion
+Disallow: /update-quastion/*
+
+
+User-agent: Googlebot-Image
+Disallow: /ajax/
+Disallow: /all_file/quastion_paper/*.pdf
+Disallow: /all_file/quastion_paper
+Disallow: /main_file
+Disallow: /user_pictur
+
+Disallow: /all-quastions
+Disallow: /admin-upload-quastion
+Disallow: /insert-year
+Disallow: /insert-stream
+Disallow: /all-institute
+Disallow: /institute-type
+Disallow: /all-contact
+Disallow: /user
+Disallow: /profile
+Disallow: /aprove-quastion
+Disallow: /not-aprove-quastion
+Disallow: /update-quastion/*
+
+
+User-agent: Googlebot-Video
+Disallow: /ajax/
+Disallow: /all_file/quastion_paper/*.pdf
+Disallow: /all_file/quastion_paper
+Disallow: /main_file
+Disallow: /user_pictur
+
+Disallow: /all-quastions
+Disallow: /admin-upload-quastion
+Disallow: /insert-year
+Disallow: /insert-stream
+Disallow: /all-institute
+Disallow: /institute-type
+Disallow: /all-contact
+Disallow: /user
+Disallow: /profile
+Disallow: /aprove-quastion
+Disallow: /not-aprove-quastion
+Disallow: /update-quastion/*
+
+User-agent: Googlebot-pdf
+Disallow: /ajax/
+Disallow: /all_file/quastion_paper/*.pdf
+Disallow: /all_file/quastion_paper
+Disallow: /main_file
+Disallow: /user_pictur
+
+Disallow: /all-quastions
+Disallow: /admin-upload-quastion
+Disallow: /insert-year
+Disallow: /insert-stream
+Disallow: /all-institute
+Disallow: /institute-type
+Disallow: /all-contact
+Disallow: /user
+Disallow: /profile
+
+Disallow: /aprove-quastion
+Disallow: /not-aprove-quastion
+Disallow: /update-quastion/*
